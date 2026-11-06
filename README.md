@@ -6,9 +6,9 @@
 
 <!-- AUTO LIGHT/DARK MODE TYPING ANIMATION (WHITE IN DARK MODE, BLACK IN LIGHT MODE) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+GharSettle+(gharsettle.app)+%26+Simply+Tool;Real-Time+Multimodal+AI+%26+SSE+Streaming+Engines;6-Axis+Robotics+%26+Edge-Cloud+Hardware+Builder;38%2B+Repositories+%7C+Shipping+Practical+Products" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=111111&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+Simply Tool+(simplytool.app)+%26+Simply+Tool;Real-Time+Multimodal+AI+%26+SSE+Streaming+Engines;6-Axis+Robotics+%26+Edge-Cloud+Hardware+Builder;38%2B+Repositories+%7C+Shipping+Practical+Products" />
-  <img alt="Pawan Ahirwar Typing Headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+simply tool+(simplytool.app)+%26+Simply+Tool" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+Simply+Tool+(simplytool.app)+%26+Simply+Tool;Real-Time+Multimodal+AI+%26+SSE+Streaming+Engines;6-Axis+Robotics+%26+Edge-Cloud+Hardware+Builder;38%2B+Repositories+%7C+Shipping+Practical+Products" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=111111&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+Simply+Tool+(simplytool.app)+%26+Simply+Tool;Real-Time+Multimodal+AI+%26+SSE+Streaming+Engines;6-Axis+Robotics+%26+Edge-Cloud+Hardware+Builder;38%2B+Repositories+%7C+Shipping+Practical+Products" />
+  <img alt="Pawan Ahirwar Typing Headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+simply+tool+(simplytool.app)+%26+Simply+Tool" />
 </picture>
 
 **Full-Stack Product Builder** &nbsp;•&nbsp; **Multimodal AI Engineer** &nbsp;•&nbsp; **Robotics & IoT Developer**
@@ -165,6 +165,6 @@ gitGraph
 
 *Open to collaborating on **AI Web Platforms, Startup Products, Full-Stack Systems, and Robotics Hardware**.*
 
-[**GitHub (@Pawan7489)**](https://github.com/Pawan7489) &nbsp;•&nbsp; [**conversion tool (simplytool.app)**](https://simplytool.app)
+[**GitHub (@Pawan7489)**](https://github.com/Pawan7489) &nbsp;•&nbsp; [**Simply tool (simplytool.app)**](https://simplytool.app)
 
 </div>
