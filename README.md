@@ -8,7 +8,7 @@
 
 ## 🚀 About Me & Mindset
 
-* **Education:** 3rd-semester Mechanical Engineering student at **Bansal Institute of Science and Technology, Bhopal** (Enrollment No: `0112ME251019`).
+* **Education:** 3rd-semester Mechanical Engineering student at **Bansal Institute of Science and Technology, Bhopal**.
 * **Professional Work:** Independent financial and insurance product distributor via **GroMo Finance**.
 * **Certifications:** Certified in **AutoCAD** and **Digital Marketing** (from Reliance & Digital India).
 * **Mindset & Learning Approach:** 
