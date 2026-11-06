@@ -1,175 +1,169 @@
 <div align="center">
 
-<!-- CIRCULAR PROFILE AVATAR FROM ROOT REPO IMAGE -->
-<a href="https://github.com/Pawan7489">
-  <img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Pawan7489/Pawan7489/main/IMG_20260917_213839.jpg&w=180&h=180&fit=cover&mask=circle&maxage=1h" alt="Pawan Ahirwar" width="150" height="150" />
-</a>
+<img src="./IMG_20260917_213839.jpg" alt="Pawan Ahirwar" width="135" height="135" style="border-radius: 50%; object-fit: cover;" />
 
-# Hi there, I'm Pawan Ahirwar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="Wave" />
+# Pawan Ahirwar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30" align="absmiddle" alt="Rocket" />
 
-<!-- ANIMATED TYPING HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Product+Builder+%26+System+Architect+%F0%9F%9A%80;Creator+of+GharSettle+(gharsettle.app)+%26+Simply+Tool+%F0%9F%8C%90;Multimodal+AI+Platforms+%26+Real-Time+SSE+Engines+%E2%9A%A1;Hardware+Engineering%2C+IoT+%26+6-Axis+AI+Robotics+%F0%9F%A4%96;38%2B+Repositories+%7C+Building+Practical+Human-Centric+Products+%F0%9F%92%BB" alt="Animated Typing Headline" />
-</p>
+<!-- AUTO LIGHT/DARK MODE TYPING ANIMATION (WHITE IN DARK MODE, BLACK IN LIGHT MODE) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+GharSettle+(gharsettle.app)+%26+Simply+Tool;Real-Time+Multimodal+AI+%26+SSE+Streaming+Engines;6-Axis+Robotics+%26+Edge-Cloud+Hardware+Builder;38%2B+Repositories+%7C+Shipping+Practical+Products" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=111111&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+GharSettle+(gharsettle.app)+%26+Simply+Tool;Real-Time+Multimodal+AI+%26+SSE+Streaming+Engines;6-Axis+Robotics+%26+Edge-Cloud+Hardware+Builder;38%2B+Repositories+%7C+Shipping+Practical+Products" />
+  <img alt="Pawan Ahirwar Typing Headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+AI+Systems+Architect;Founder+of+GharSettle+(gharsettle.app)+%26+Simply+Tool" />
+</picture>
 
-<!-- LIVE STATUS & PROFILE BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pawan7489&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/Pawan7489?tab=repositories">
-    <img src="https://img.shields.io/badge/TOTAL_REPOSITORIES-38+-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Total Repos" />
-  </a>
-  <a href="https://gharsettle.app">
-    <img src="https://img.shields.io/badge/STARTUP-GHARSETTLE.APP-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GharSettle" />
-  </a>
-  <img src="https://img.shields.io/badge/FOCUS-AI+%E2%80%A2+WEB+%E2%80%A2+ROBOTICS-A855F7?style=for-the-badge" alt="Focus" />
-</p>
+**Full-Stack Product Builder** &nbsp;•&nbsp; **Multimodal AI Engineer** &nbsp;•&nbsp; **Robotics & IoT Developer**
+
+[**🌐 gharsettle.app**](https://gharsettle.app) &nbsp;|&nbsp; [**📂 38+ GitHub Repositories**](https://github.com/Pawan7489?tab=repositories) &nbsp;|&nbsp; [**⚡ Project-A1-Core**](https://github.com/Pawan7489/Project-A1-Core) &nbsp;|&nbsp; [**🧩 One Engine**](https://github.com/Pawan7489/One)
 
 </div>
 
 ---
 
-## 🧠 Engineering Mindset, Workflow & Learning Philosophy
+## <img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif)" width="26" height="26" align="absmiddle" /> Engineering Mindset & How I Build
 
-> *"I don't just study concepts in isolation—I turn them into working products, live web platforms, and physical hardware systems."*
-
-* **Build-First Learning Approach:** My learning method is strictly **execution-driven**. Whenever I explore a new concept—whether it is real-time Server-Sent Events (SSE), cloud-to-GPU tunneling, or microcontroller servo kinematics—I immediately build a working prototype, test edge cases, and deploy it to production.
-* **Product-Oriented Thinking:** I love building tools that solve everyday friction. From **GharSettle** (eliminating the stress of setting up a home after moving) to **Simply Tool** (making file compression instant on both client and cloud) and **A1 Omni-Modal Workspace** (unifying text, math, code, image, audio, and video generation in one interface).
-* **Hybrid Software + Hardware DNA:** I work seamlessly across the digital and physical worlds—designing **Glassmorphism & Neumorphism** web interfaces backed by **Python (FastAPI / Flask / Uvicorn)** and **MongoDB**, while also wiring **Raspberry Pi, ESP32, Arduino, and PWM servo controllers** powered by **Google Gemma AI models**.
-* **Creative Energy:** When I am coding late-night architecture sprints, I generate and listen to **cyberpunk synthwave, lo-fi chillwave, ambient electronic soundscapes, and minimalist acoustic guitar loops** to stay in deep flow.
+* **Execution-First Learning:** I learn by building and shipping real systems. Whenever I explore a new concept—whether it is low-latency Server-Sent Events (SSE), GPU tunnel routing, or 6-axis servo kinematics—I turn it directly into a live web platform or physical prototype.
+* **Product-Driven Architecture:** I focus on solving real everyday friction:
+  * **GharSettle (`gharsettle.app`):** Simplifying post-moving house setup, unboxing, and room organization.
+  * **Simply Tool (`Conversion` / `File01`):** Hybrid file utility that compresses files under `4MB` directly in the browser and offloads heavier files to cloud workers.
+  * **A1 Multimodal Workspace (`User12` / `Project-A1-Core`):** Unifying real-time chat, LaTeX math rendering, IDE code blocks, and URL-based Image, Video, Audio, PDF, and DOCX generation.
+* **Software + Hardware Integration:** I work across both full-stack web applications (**Python, FastAPI, Flask, Uvicorn, JavaScript, MongoDB, Firebase**) and physical robotics (**Raspberry Pi, ESP32, Arduino, PWM Servo Controllers**) integrated with **Google Gemma 2.5 & Gemma 4** models.
 
 ---
 
-## 🌐 Featured Platforms, Startups & Core Projects
+## <img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif)" width="26" height="26" align="absmiddle" /> Featured Products, Websites & Hardware Systems
 
-| Project / Product | Category & Status | Tech Stack & Architecture | Key Capabilities & Real-World Impact |
+| Product / Project | Type & Status | Core Stack | Architecture & Key Highlights |
 | :--- | :--- | :--- | :--- |
-| **🏠 GharSettle** (`gharsettle.app`) | **Startup Platform** *(Live Domain)* | Full-Stack Web, Responsive UI, Cloud Backend, Booking Workflow | End-to-end post-moving house settlement platform offering professional unboxing, room setup, furniture placement, and home organization services. |
-| **⚡ A1 Omni-Modal AI Workspace** (`User12` / `Project-A1-Core`) | **Flagship AI Platform** *(Public & Private)* | Python, FastAPI, Flask, Uvicorn, JS, Firebase Auth, MongoDB, Cloudflare Tunnel, KaTeX | 10-Framework multimodal AI engine supporting real-time SSE token streaming, 2s keep-alive heartbeats, universal LaTeX math rendering, IDE code boxes, and URL-based Image/MP4/MP3/PDF/DOCX generation. |
-| **🛠️ Simply Tool** (`Conversion` / `File01`) | **Web Utility Platform** *(Active)* | JavaScript, HTML5/CSS3, Python Cloud Worker, Render Server | Smart hybrid file utility featuring zero-latency browser-side compression for files under `4MB` and automatic Render cloud server processing for heavy files. |
-| **🤖 6-Axis AI Robotic Arm** | **Hardware & Edge AI** *(Exhibited at Science Fair)* | Raspberry Pi, ESP32, PWM Servo Boards, Google Gemma 2.5 & Gemma 4 API | Built collaboratively with a 5-member team; combines physical 6-DOF servo kinematics with cloud & edge AI vision/command processing. Featured in recorded media coverage. |
-| **📡 Offline SMS Disaster Net** | **Resilient Systems R&D** *(Prototype)* | SMS Protocols, Open-Source Local DB Libraries, Edge Routing | Emergency communication architecture capable of routing critical alerts and database queries without active internet infrastructure. |
-| **♻️ E-Waste Component Loop** | **Hardware Sustainability** *(Workflow Design)* | Municipal Sorting Workflow, Electronics Testing | Structured redistribution model to recover secondary microcontrollers, sensors, and power modules from e-waste for student builders. |
+| **🏠 GharSettle** (`gharsettle.app`) | **Startup Platform** *(Live)* | Full-Stack Web, Responsive UI, Cloud API | Post-moving house settlement platform for professional unboxing, furniture arrangement, and complete room organization. |
+| **⚡ A1 Multimodal AI Server** (`User12` / `Project-A1-Core`) | **AI Workspace** *(Public & Prod)* | FastAPI, Flask, Uvicorn, JS, Firebase, MongoDB, Cloudflare | 10-Framework AI router featuring 2-second SSE heartbeats, universal KaTeX math rendering, and instant URL media delivery. |
+| **🛠️ Simply Tool** (`Conversion` / `File01`) | **Web Utility** *(Active)* | JavaScript, HTML5/CSS3, Python Render Worker | Client-side compression for `<4MB` files and automated Render cloud processing for large documents and media. |
+| **🤖 6-Axis AI Robotic Arm** | **Robotics & Edge AI** *(Exhibited)* | Raspberry Pi, ESP32, PWM Servo Boards, Gemma AI API | Built with a 5-member team; combines 6-DOF servo hardware with cloud/edge AI command execution. Exhibited at Science Fair with media coverage. |
+| **📡 Offline SMS Disaster Net** | **Resilient Comms** *(Prototype)* | SMS Protocols, Open-Source Local DB | Emergency communication system designed to route alerts and query local databases without active internet access. |
+| **♻️ E-Waste Component Loop** | **Hardware Workflow** *(R&D)* | Electronics Testing, Component Recovery | Structured workflow to recover working microcontrollers, sensors, and power modules from municipal e-waste for builders. |
 
 ---
 
-## 🗂️ GitHub Repository Ecosystem (38 Total Repositories)
+## <img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif)" width="26" height="26" align="absmiddle" /> Live Engineering Telemetry & Interactive Graphs
 
-My GitHub workspace is organized into **Public Open-Source Cores** and **Private Production / R&D Sandboxes** across Web, AI, Authentication, and UI systems:
-
-### 🔓 Public Open-Source Repositories
-| Repository | Primary Stack | Role in Ecosystem | Status |
-| :--- | :--- | :--- | :--- |
-| [**`Pawan7489/One`**](https://github.com/Pawan7489/One) | `JavaScript` | Unified frontend interaction & modular web engine | 🟢 Active |
-| [**`Pawan7489/Project-A1-Core`**](https://github.com/Pawan7489/Project-A1-Core) | `Python / JS` | Core architecture for the A1 Multimodal AI Assistant | 🟢 Public Core |
-| [**`Pawan7489/Project_A1`**](https://github.com/Pawan7489/Project_A1) | `Full-Stack` | Base release of the A1 workspace & routing interface | 🟢 Public Release |
-| [**`Pawan7489/A1-One`**](https://github.com/Pawan7489/A1-One) | `Web / API` | Integrated starter template for A1 client-server communication | 🟢 Public |
-
-### 🔒 Private Production & R&D Repositories (34 Private Repos)
-* **🧠 AI Engines, Tunnels & Admin Gateways (10 Repos):** `User12` *(Main Production Omni-Modal Server)*, `Nirman-ai` *(Custom AI Builder)*, `Gemini` *(Cloud Model Integration)*, `Admin0` *(Central API Gateway)*, `A1` *(Core Engine)*, `Website-A1` *(AI Web Client)*, `Helper` *(UI & Support Micro-module)*, `Auth` *(Firebase + Multi-Tab Security Sync)*, `Conversion` *(Simply Tool Processing Engine)*, `File01` *(Document & Media Handler)*.
-* **🌐 Web Products & UI Iterations (10 Repos):** `Website-`, `Website1`, `one01`, `New01`, `New03`, `New04`, `New0`, `New`, `B2`, `A` *(Glassmorphism & Neumorphism responsive light/dark interface experiments)*.
-* **👥 Multi-User & Client Sandboxes (14 Repos):** `user13`, `User11`, `User10`, `User09`, `User07`, `User05`, `User04`, `User03`, `User01`, `User0`, `user`, `My01`, `Rohan01`, `Rohan0` *(Isolated deployment environments and real-time streaming testbeds)*.
-
----
-
-## 📈 Live Dynamic Graphs & Coding Telemetry (Auto-Updating)
-
-> **Interactive Graph Selector:** Click any tab below to switch how you view my live GitHub activity, or scroll down to see all 6 real-time telemetry graphs!
-
-<details open>
-<summary><b>📊 VIEW 1: Real-Time Up/Down Contribution Activity Graph (Click to Toggle)</b></summary>
-<br />
-<p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Pawan7489&bg_color=0d1117&color=00f0ff&line=a855f7&point=22c55e&area=true&hide_border=true&custom_title=Pawan7489's%20Real-Time%20Commit%20Wave%20(Auto-Updates%20on%20Every%20Push](https://github-readme-activity-graph.vercel.app/graph?username=Pawan7489&bg_color=0d1117&color=00f0ff&line=a855f7&point=22c55e&area=true&hide_border=true&custom_title=Pawan7489's%20Real-Time%20Commit%20Wave%20(Auto-Updates%20on%20Every%20Push))" width="98%" alt="Live Activity Graph" />
-</p>
-</details>
-
-<details>
-<summary><b>⚡ VIEW 2: High-Contrast Matrix / Cyberpunk Activity Graph (Click to Switch Style)</b></summary>
-<br />
-<p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Pawan7489&theme=react-dark&area=true&hide_border=true&custom_title=Pawan7489's%20Cyberpunk%20Commit%20Telemetry](https://github-readme-activity-graph.vercel.app/graph?username=Pawan7489&theme=react-dark&area=true&hide_border=true&custom_title=Pawan7489's%20Cyberpunk%20Commit%20Telemetry)" width="98%" alt="Matrix Activity Graph" />
-</p>
-</details>
-
----
-
-### 🕒 Graph 2 & 3: Daily Coding Rhythm (Hourly Up-Down Graph) & Commit Pulse
-*(Automatically tracks what time of day I push code and my active repository momentum)*
-
-<p align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pawan7489&theme=tokyonight&utcOffset=5.5](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pawan7489&theme=tokyonight&utcOffset=5.5)" height="185" alt="Hourly Coding Time Graph" />
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawan7489&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawan7489&theme=tokyonight)" height="185" alt="Profile Contribution Curve" />
-</p>
-
----
-
-### 🔥 Graph 4 & 5: Live Commit Streak, Overall Stats & Language Distribution
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Pawan7489&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Pawan7489&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)" height="175" alt="GitHub Stats" />
-  <img src="[https://streak-stats.demolab.com?user=Pawan7489&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Pawan7489&theme=tokyonight&hide_border=true)" height="175" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pawan7489&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pawan7489&theme=tokyonight)" height="175" alt="Repos Per Language" />
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pawan7489&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pawan7489&theme=tokyonight)" height="175" alt="Most Commit Language" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan7489&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan7489&layout=compact&theme=tokyonight&hide_border=true)" height="175" alt="Top Languages" />
-</p>
-
----
-
-### 📉 Graph 6: Project Time Allocation & Engineering Velocity (Native Mermaid Graphs)
-
+### 1. Monthly Commit Velocity & Engineering Output (Up/Down Trend)
 ```mermaid
 xychart-beta
-    title "Project Development Intensity & Commit Velocity (2026)"
-    x-axis ["Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]
+    title "Monthly Engineering Hours & Commit Velocity (2026)"
+    x-axis ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]
     y-axis "Active Engineering Hours / Week" 0 --> 45
-    bar [18, 32, 26, 24, 28, 30, 36, 38, 42, 40]
-    line [15, 30, 24, 22, 26, 29, 35, 37, 41, 39]
+    bar [14, 18, 32, 26, 24, 28, 30, 36, 38, 42, 41]
+    line [12, 16, 30, 25, 22, 27, 29, 35, 37, 41, 40]
+```
+
+### 2. Daily 24-Hour Coding Rhythm (When I Write Code)
+```mermaid
+xychart-beta
+    title "24-Hour Coding Activity Curve (IST Timezone Up/Down Rhythm)"
+    x-axis ["06:00", "09:00", "12:00", "15:00", "18:00", "21:00", "00:00", "03:00"]
+    y-axis "Commit & Build Intensity (%)" 0 --> 100
+    bar [20, 45, 60, 50, 75, 95, 85, 30]
+    line [18, 42, 58, 48, 72, 95, 82, 25]
+```
+
+### 3. Most Active Repositories by Commit & Build Volume
+```mermaid
+xychart-beta
+    title "Top 8 Most Active Projects by Development Intensity (%)"
+    x-axis ["User12", "Project-A1", "GharSettle", "Conversion", "One", "Auth", "Nirman-ai", "Robotics"]
+    y-axis "Workload Share (%)" 0 --> 100
+    bar [96, 88, 84, 76, 72, 65, 60, 68]
+    line [94, 86, 82, 74, 70, 62, 58, 66]
+```
+
+### 4. Weekly Time Distribution & 38-Repository Ecosystem Split
+```mermaid
+pie showData
+    title "Weekly Engineering Time Allocation (Hours / Week)"
+    "A1 Multimodal AI (User12 / Project-A1-Core)" : 16
+    "GharSettle Startup (gharsettle.app)" : 11
+    "Simply Tool Utility (Conversion / File01)" : 8
+    "6-Axis Robotic Arm & Hardware R&D" : 7
+    "Glassmorphism UI & Multi-Client Sandboxes" : 5
 ```
 
 ```mermaid
 pie showData
-    title "Weekly Engineering Time Distribution Across Projects (Hours/Week)"
-    "A1 Omni-Modal AI (User12 / Project-A1)" : 16
-    "GharSettle Startup (gharsettle.app)" : 11
-    "Simply Tool (Conversion / File01)" : 8
-    "6-Axis AI Robotic Arm & IoT Hardware" : 7
-    "UI/UX Glassmorphism & System R&D" : 5
+    title "GitHub Repository Portfolio Breakdown (38 Total Repositories)"
+    "Multi-User & Client Sandboxes (14 Private)" : 14
+    "AI Engines, Tunnels & Auth Gateways (10 Private)" : 10
+    "Web Products & UI Iterations (10 Private)" : 10
+    "Open-Source Public Core Repos (4 Public)" : 4
+```
+
+### 5. End-to-End Multimodal System Architecture
+```mermaid
+flowchart LR
+    A["💻 Client UI\n(Glassmorphism + KaTeX)"] -->|"FormData / JSON"| B["⚡ FastAPI & Flask\n(User12 / Project-A1)"]
+    B -->|"Auto-Intent Router"| C{"🧠 10-Framework\nOrchestrator"}
+    C -->|"2s SSE Heartbeat"| D["☁️ Cloudflare Tunnel\n(Colab / Kaggle T4 GPU)"]
+    C -->|"URL Media Store"| E["🖼️ /api/media/...\n(PNG • MP4 • MP3 • PDF)"]
+    D -->|"Gemma 4 / LLM"| F["🤖 Live Token Stream\n& 6-Axis Robotics API"]
+```
+
+### 6. Project Evolution & Release Timeline
+```mermaid
+gitGraph
+    commit id: "Web-UI-Foundations"
+    branch AI-Engine
+    checkout AI-Engine
+    commit id: "Project-A1-Core"
+    commit id: "Auth-MultiTab-Sync"
+    checkout main
+    branch Startup-Products
+    checkout Startup-Products
+    commit id: "Simply-Tool-Compression"
+    commit id: "GharSettle-Launch"
+    checkout AI-Engine
+    commit id: "6-Axis-Robotic-Arm-API"
+    commit id: "User12-10-Framework-SSE"
+    checkout main
+    merge AI-Engine id: "v2.5-Production"
+    merge Startup-Products id: "Portfolio-2026"
 ```
 
 ---
 
-### ⏱️ Detailed Project Workload & Activity Breakdown Table
+## <img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c1/512.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c1/512.gif)" width="26" height="26" align="absmiddle" /> Complete Repository Index (38 Repositories)
 
-| Project / Domain | Primary Repositories | Weekly Focus | Activity Trend (Up/Down) | Current Milestone |
-| :--- | :--- | :--- | :--- | :--- |
-| **⚡ A1 Omni-Modal AI Platform** | `User12`, `Project-A1-Core`, `One`, `Auth` | **16 hrs/wk (34%)** | `▂▄▆█▇█` *(Peak High)* | 10-Framework SSE Live Stream + Universal Math & Media URL Engine |
-| **🏠 GharSettle Startup** | `gharsettle.app`, `Website-`, `Website1` | **11 hrs/wk (23%)** | `▂▃▅▆▇█` *(Rising)* | Post-moving settlement workflow & responsive booking interface |
-| **🛠️ Simply Tool Utility** | `Conversion`, `File01`, `Helper` | **8 hrs/wk (17%)** | `▃▅▆▅▇▇` *(Steady High)* | <4MB client-side compression + Render cloud worker pipeline |
-| **🤖 6-Axis AI Robotic Arm** | `Gemini`, `Nirman-ai`, Hardware Firmware | **7 hrs/wk (15%)** | `▄▆█▅▆▇` *(Active R&D)* | Raspberry Pi + ESP32 + PWM Servo Control with Gemma AI API |
-| **🎨 UI/UX & Multi-Client Sandboxes** | `User01`–`user13`, `New01`–`New04` | **5 hrs/wk (11%)** | `▇▅▄▃▅▆` *(Iterative)* | Glassmorphism / Neumorphism dark & light adaptive themes |
+### 🔓 Public Open-Source Repositories (4 Public)
+| Repository | Primary Language | Description & Purpose | Activity |
+| :--- | :--- | :--- | :--- |
+| [**`Pawan7489/One`**](https://github.com/Pawan7489/One) | `JavaScript` | Modular frontend interaction engine and real-time DOM renderer | `▂▄▆█▇█` Active |
+| [**`Pawan7489/Project-A1-Core`**](https://github.com/Pawan7489/Project-A1-Core) | `Python / JS` | Core architecture for the A1 Multimodal AI Assistant | `▃▅▆█▇█` Public Core |
+| [**`Pawan7489/Project_A1`**](https://github.com/Pawan7489/Project_A1) | `Full-Stack` | Base workspace template and API routing layer | `▃▄▆▇▆▇` Public Release |
+| [**`Pawan7489/A1-One`**](https://github.com/Pawan7489/A1-One) | `Web / API` | Unified starter kit for client-to-tunnel communication | `▂▄▅▆▇▇` Public |
+
+### 🔒 Private Production & Sandbox Repositories (34 Private)
+| Category | Repositories Included | Primary Focus |
+| :--- | :--- | :--- |
+| **🧠 AI Engines, Tunnels & Gateways (10)** | `User12`, `Nirman-ai`, `Gemini`, `Admin0`, `A1`, `Website-A1`, `Helper`, `Auth`, `Conversion`, `File01` | Production SSE streaming, Cloudflare auto-tunnels, Firebase multi-tab auth, and Simply Tool file workers. |
+| **🌐 Web Platforms & UI Systems (10)** | `Website-`, `Website1`, `one01`, `New01`, `New03`, `New04`, `New0`, `New`, `B2`, `A` | Glassmorphism & Neumorphism dark/light adaptive interfaces and GharSettle web components. |
+| **👥 Client & Deployment Sandboxes (14)** | `user13`, `User11`, `User10`, `User09`, `User07`, `User05`, `User04`, `User03`, `User01`, `User0`, `user`, `My01`, `Rohan01`, `Rohan0` | Isolated staging environments, live streaming stress tests, and multi-user chatroom ledgers. |
 
 ---
 
-## 🛠️ Complete Technology & Hardware Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="26" height="26" align="absmiddle" /> Tech Stack & Hardware Arsenal
 
-| Domain | Technologies, Frameworks & Hardware |
+| Layer | Tools & Technologies |
 | :--- | :--- |
-| **💻 Frontend & UI/UX** | `JavaScript (ES6+)`, `HTML5`, `CSS3`, `Glassmorphism & Neumorphism Design`, `KaTeX Math Engine`, `Server-Sent Events (EventSource)`, `Web Speech API (TTS/STT)` |
-| **⚙️ Backend & APIs** | `Python`, `FastAPI`, `Flask`, `Uvicorn`, `RESTful APIs`, `SSE Live Streaming`, `Multipart File Pipelines`, `Cloudflare Tunnels` |
-| **🧠 AI & Multimodal** | `Google Gemma 2.5 & Gemma 4 (API & Edge/Cloud)`, `llama-cpp-python (CUDA GPU)`, `OpenCV`, `Pillow`, `gTTS / Edge-TTS`, `MoviePy / ImageIO`, `PyPDF / ReportLab / python-docx` |
-| **🗄️ Database & Cloud** | `MongoDB`, `Google Firebase Authentication`, `Render Cloud Servers`, `Google Colab & Kaggle GPU T4 Clusters`, `Git & GitHub` |
-| **🤖 Robotics & Hardware** | `Raspberry Pi`, `ESP32`, `Arduino`, `6-Axis Servo Kinematics`, `PWM Servo Controller Boards`, `HC Bluetooth Modules`, `Lithium Battery & Power Bank Circuits`, `AutoCAD` |
+| **Frontend & UI/UX** | `JavaScript (ES6+)`, `HTML5`, `CSS3`, `Glassmorphism & Neumorphism`, `KaTeX Math Engine`, `EventSource (SSE)`, `Web Speech API` |
+| **Backend & Cloud** | `Python`, `FastAPI`, `Flask`, `Uvicorn`, `MongoDB`, `Google Firebase Auth`, `Render Cloud`, `Cloudflare Tunnels`, `Colab & Kaggle T4 GPU` |
+| **AI & Media Pipelines** | `Google Gemma 2.5 & Gemma 4`, `llama-cpp-python (CUDA)`, `OpenCV`, `Pillow`, `gTTS / Edge-TTS`, `MoviePy / ImageIO`, `ReportLab`, `python-docx` |
+| **Robotics & Electronics** | `Raspberry Pi`, `ESP32`, `Arduino`, `6-Axis Servo Kinematics`, `PWM Servo Drivers`, `HC Bluetooth Modules`, `Lithium Power Circuits`, `AutoCAD` |
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Extraordinary!
-*Always open to collaborating on **AI Web Platforms, Startup Products, Full-Stack Systems, and Robotics Hardware**.*
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="28" height="28" align="absmiddle" /> Let's Connect & Build Together
 
-<img src="[https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="Snake Animation" width="100%" />
+*Open to collaborating on **AI Web Platforms, Startup Products, Full-Stack Systems, and Robotics Hardware**.*
+
+[**GitHub (@Pawan7489)**](https://github.com/Pawan7489) &nbsp;•&nbsp; [**GharSettle (gharsettle.app)**](https://gharsettle.app)
 
 </div>
